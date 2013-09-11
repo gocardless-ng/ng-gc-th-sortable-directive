@@ -1,12 +1,12 @@
 {
-  "name": "ng-gc-localstorage-service",
+  "name": "ng-gc-th-sortable-directive",
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/gocardless-ng/ng-gc-localstorage-service.git"
+    "url": "git://github.com/gocardless-ng/ng-gc-th-sortable-directive.git"
   },
   "bugs": {
-    "url": "http://github.com/gocardless-ng/ng-gc-localstorage-service/issues"
+    "url": "http://github.com/gocardless-ng/ng-gc-th-sortable-directive/issues"
   },
   "devDependencies": {
     "grunt": "~0.4.1",

@@ -18,7 +18,7 @@ module.exports = function(config) {
       // Specs helpers
       'components/jasmine-helpers/*.js',
 
-      'ng-gc-localstorage-service*.js'
+      'ng-gc-th-sortable-directive*.js'
     ],
 
 

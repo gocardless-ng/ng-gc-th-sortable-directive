@@ -1,7 +1,7 @@
 {
-  "name": "ng-gc-localstorage-service",
+  "name": "ng-gc-th-sortable-directive",
   "version": "0.1.0",
-  "main": "ng-gc-localstorage-service.js",
+  "main": "ng-gc-th-sortable-directive.js",
   "dependencies": {
     "bower-angular": "git@github.com:angular/bower-angular.git#v1.2.0-rc.2"
   },
