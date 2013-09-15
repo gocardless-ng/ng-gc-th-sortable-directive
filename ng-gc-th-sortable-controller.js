@@ -2,8 +2,7 @@
 
 angular.module('gc.thSortableController', [
   'gc.thSortableService'
-])
-.controller('ThSortableController', [
+]).controller('ThSortableController', [
   '$scope', '$attrs', 'thSortableService',
   function ThSortableController($scope, $attrs, thSortableService) {
 

@@ -2,8 +2,7 @@
 
 angular.module('gc.thSortableService', [
   'ngRoute',
-])
-.factory('thSortableService', [
+]).factory('thSortableService', [
   '$route', '$location',
   function thSortableService($route, $location) {
 
